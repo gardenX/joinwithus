@@ -1,0 +1,48 @@
+.container{
+	margin-top: -14px;
+}
+img{
+width: 185px;
+height: 180px;
+margin-left: 88px;
+}
+
+.form-group label{
+	margin-top: 5px;
+    font-size: 15px; 
+}
+
+.blockquote-join{
+    padding: 11.5px 23px;
+    margin: 0 0 23px;
+    font-size: 16.25px;
+    border-left: 5px solid #eeeeee;
+    border-right: 5px solid #eeeeee;
+}
+.blockquote-join h4{
+    margin-left:33px;
+}
+
+.validasi{
+    font-size: 19.5px;
+    margin-left: 27px;
+}
+
+/*panel*/
+
+.panel-hijau > .panel-heading {
+    color: #ffffff;
+    background-color: #6ec5a2;
+    border-color: #d6e9c6;
+}
+
+/*panel*/
+
+.btn-hijau {
+	margin-left: 12px;
+	margin-top: 14px;
+    color: #ffffff;
+    background-color: #6ec5a2;
+    border-color: transparent;
+}
+
